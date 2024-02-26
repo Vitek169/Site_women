@@ -18,8 +18,15 @@ from django.contrib import admin
 from django.urls import path, include
 
 from women import views
+from women.views import page_not_found
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('women.urls')), # изменяем главную страницу http://127.0.0.1:8000 с выводом статьи 'Страница приложения women.' из views
 ]
+
+
+handler404 = page_not_found
+
+
+
