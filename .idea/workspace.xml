@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Создание конфертор года и каталога по годам">
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" afterDir="false" />
+    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="добавление index.html и about.html.&#10;внесение изменений в несколько файлов">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/sitewoman/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/sitewoman/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitewoman/women/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +26,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vitek169&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d7cf357c-a86d-46db-a316-4a24749ccfb0" />
+        <option name="url" value="https://github.com/Vitek169/Site_women.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -38,23 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sitewomen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vitek169/IT/New_site/sitewoman/manage.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.manage.executor": "Run",
+    "Python.sitewomen.executor": "Run",
+    "Python.urls.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/vitek169/IT/New_site/sitewoman/manage.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sitewoman/women/templates/women" />
@@ -118,7 +129,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -163,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708598877824</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="добавление index.html и about.html.&#10;внесение изменений в несколько файлов">
+      <option name="closed" value="true" />
+      <created>1708951560738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708951560738</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +201,7 @@
     <MESSAGE value="добавляем папку в gitignor" />
     <MESSAGE value="добавляем path cats slug и id" />
     <MESSAGE value="Создание конфертор года и каталога по годам" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание конфертор года и каталога по годам" />
+    <MESSAGE value="добавление index.html и about.html.&#10;внесение изменений в несколько файлов" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавление index.html и about.html.&#10;внесение изменений в несколько файлов" />
   </component>
 </project>
