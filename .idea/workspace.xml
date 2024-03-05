@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="добавление index.html и about.html.&#10;внесение изменений в несколько файлов">
+    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Добавление тегов for и if в HTML странички">
+      <change afterPath="$PROJECT_DIR$/sitewoman/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitewoman/women/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitewoman/women/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,23 +52,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.manage.executor": "Run",
-    "Python.sitewomen.executor": "Run",
-    "Python.urls.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vitek169/IT/New_site/sitewoman/manage.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sitewomen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vitek169/IT/New_site/sitewoman/manage.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sitewoman/women/templates/women" />
@@ -182,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708951560738</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавление тегов for и if в HTML странички">
+      <option name="closed" value="true" />
+      <created>1709393610186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709393610186</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +213,7 @@
     <MESSAGE value="добавляем path cats slug и id" />
     <MESSAGE value="Создание конфертор года и каталога по годам" />
     <MESSAGE value="добавление index.html и about.html.&#10;внесение изменений в несколько файлов" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавление index.html и about.html.&#10;внесение изменений в несколько файлов" />
+    <MESSAGE value="Добавление тегов for и if в HTML странички" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление тегов for и if в HTML странички" />
   </component>
 </project>
