@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Добавление тегов for и if в HTML странички">
-      <change afterPath="$PROJECT_DIR$/sitewoman/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Небольшие изменения" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709393610186</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Небольшие изменения">
+      <option name="closed" value="true" />
+      <created>1709659035072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709659035072</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +214,7 @@
     <MESSAGE value="Создание конфертор года и каталога по годам" />
     <MESSAGE value="добавление index.html и about.html.&#10;внесение изменений в несколько файлов" />
     <MESSAGE value="Добавление тегов for и if в HTML странички" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление тегов for и if в HTML странички" />
+    <MESSAGE value="Небольшие изменения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Небольшие изменения" />
   </component>
 </project>
