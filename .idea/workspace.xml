@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Добавление nav.html. Создание наследования HTMLстраниц">
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/images/blockquote.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/images/btn_yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/images/main.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/images/share_yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitewoman/women/static/women/images/smallmenu.png" afterDir="false" />
+    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Добавление статических элементов">
+      <change afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/list_categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitewoman/women/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitewoman/women/templatetags/women_tags.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/sitewoman/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitewoman/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitewoman/women/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitewoman/women/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.manage.executor": "Run",
-    "Python.sitewomen.executor": "Run",
-    "Python.urls.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vitek169/IT/New_site/sitewoman/manage.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sitewomen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vitek169/IT/New_site/sitewoman/manage.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sitewoman/women" />
@@ -220,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709723745109</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Добавление статических элементов">
+      <option name="closed" value="true" />
+      <created>1710941849199</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710941849199</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +246,7 @@
     <MESSAGE value="Добавление тегов for и if в HTML странички" />
     <MESSAGE value="Небольшие изменения" />
     <MESSAGE value="Добавление nav.html. Создание наследования HTMLстраниц" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление nav.html. Создание наследования HTMLстраниц" />
+    <MESSAGE value="Добавление статических элементов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление статических элементов" />
   </component>
 </project>
