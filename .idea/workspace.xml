@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Добавление пользовательских тегов simpl_tags и inclusion_tags">
+    <list default="true" id="f30bc66b-be18-4ca4-9817-5114fd521692" name="Changes" comment="Добавление модели">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitewoman/women/templates/women/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711023784959</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Добавление модели">
+      <option name="closed" value="true" />
+      <created>1711116853697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711116853698</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +258,7 @@
     <MESSAGE value="Добавление nav.html. Создание наследования HTMLстраниц" />
     <MESSAGE value="Добавление статических элементов" />
     <MESSAGE value="Добавление пользовательских тегов simpl_tags и inclusion_tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление пользовательских тегов simpl_tags и inclusion_tags" />
+    <MESSAGE value="Добавление модели" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление модели" />
   </component>
 </project>
