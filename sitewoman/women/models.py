@@ -7,5 +7,12 @@ class Women(models.Model):
     time_update = models.DateTimeField(auto_now=True) # Изменяется время и дата при обнафылении инфы
     is_published = models.BooleanField(default=True) # Булево значение. По дефолту True
 
+    def __str__(self):
+        return self.title
+
+
+
+
+
 
 
